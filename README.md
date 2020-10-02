@@ -1,4 +1,4 @@
-### Tutorials on Machine Learning with Scikit-Learn
+### Tutorials on Machine Learning with Scikit-Learn (sklearn) Library
 
 - working with the Wisconsin Breast Cancer Dataset - that comes with scikit-learn (one of the default, pre-processed and cleaned datasets)
 
